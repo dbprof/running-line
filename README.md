@@ -3,7 +3,7 @@
 1. В наличии для прототипирования и проверки работоспособности:
 * 1x ТМ1637
 * 1x Arduino Uno
-2. Видео на YouTube: [https://youtu.be/D4hlApTUEX4](https://youtu.be/D4hlApTUEX4)
+2. Видео на YouTube: [https://youtu.be/aWp3Hv8hvg8](https://youtu.be/aWp3Hv8hvg8)
 3. Схема подключения:
 ![Схема подключения](https://github.com/dbprof/running-line/blob/master/3.png)
 
